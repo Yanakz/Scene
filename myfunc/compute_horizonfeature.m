@@ -1,3 +1,17 @@
+% This Matlab script demonstrates the usage of this package.
+%
+% ----------------------------------------------------------------------
+% Matlab tools for "Saliency Prediction with Scene Structural Guidance" in arxiv, 2015
+% Haoran Liang, Ming Jiang, Ronghua Liang and Qi Zhao, 
+%
+% Copyright (c) 2015 NUS VIP - Visual Information Processing Lab
+%
+% Distributed under the MIT License
+% See LICENSE file in the distribution folder.
+% -----------------------------------------------------------------------
+
+
+
 function compute_horizonfeature( img,dims,i )
 
 h=getHorizon(img);
