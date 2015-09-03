@@ -1,7 +1,8 @@
 # Scene
 
-This Matlab script demonstrates the usage of this package.
+
 =========================================================================
+This Matlab script demonstrates the usage of this package.
 If you have used this code in your work, please cite the following paper:
  
 Matlab tools for "Saliency Prediction with Scene Structural Guidance" in arxiv, 2015

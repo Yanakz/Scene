@@ -1,4 +1,4 @@
-# Scene
+# Saliency Prediction with Scene Structural Guidance
 
 
 =========================================================================
