@@ -11,7 +11,6 @@ Haoran Liang, Ming Jiang, Ronghua Liang and Qi Zhao
 Copyright (c) 2015 NUS VIP - Visual Information Processing Lab
 Distributed under the MIT License
 See LICENSE file in the distribution folder.
-=========================================================================
 
 
 ## Source Code
